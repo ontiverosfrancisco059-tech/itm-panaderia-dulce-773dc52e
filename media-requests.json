@@ -1,0 +1,160 @@
+{
+  "media_requests": [
+    {
+      "slot_id": "hero-bakery-display",
+      "page": "home",
+      "section": "hero",
+      "category": "dish",
+      "label": "Fachada o interior de panaderia con pan fresco recien horneado",
+      "theme": "panaderia dulce, pan artesanal, vitrina de pasteles, ambiente acogedor",
+      "query": "artisan bakery storefront display with fresh bread and pastries",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "about-bakery-interior",
+      "page": "home",
+      "section": "about",
+      "category": "place",
+      "label": "Interior acogedor de panaderia artesanal con horno visible",
+      "theme": "panaderia artesanal, horno de barro, masa madre, tradicion local",
+      "query": "cozy artisan bakery interior with brick oven and warm lighting",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-concha-mexicana",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Conchas mexicanas tradicionales de panaderia",
+      "theme": "concha, pan dulce mexicano, reposteria tradicional, colorido",
+      "query": "traditional Mexican concha sweet bread bakery",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-cuernos",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Cuernos de mantequilla recien horneados",
+      "theme": "cuerno, pan de mantequilla, hojaldre, textura crujiente",
+      "query": "freshly baked butter croissants on wooden board",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-galletas",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Galletas decoradas con frosting colorido",
+      "theme": "galletas, frosting, reposteria creativa, dulces artesanales",
+      "query": "decorated cookies with colorful frosting bakery display",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-pan-chino",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Pan chino o relleno de crema pastelera",
+      "theme": "pan chino, relleno de crema, pan dulce, suavidad",
+      "query": "Mexican pan chino sweet bread filled with cream",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-bread-assortment",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Variedad de panes artesanales en cestas de mimbre",
+      "theme": "panes variados, cestas de mimbre, abundancia, panaderia tradicional",
+      "query": "assortment of artisan breads in wicker baskets bakery",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-pastries-closeup",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Primer plano de pasteleria fina con detaillos de chocolate",
+      "theme": "pasteleria fina, chocolate, detalles, texturas irresistibles",
+      "query": "close up of fine pastries with chocolate details bakery",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-cake-decoration",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Pastel decorado con buttercream y frutas frescas",
+      "theme": "pastel decorado, buttercream, frutas, celebracion, color",
+      "query": "decorated cake with buttercream and fresh fruit bakery",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-baker-hands",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Manos de panadero amasando masa fresca",
+      "theme": "panadero, amasando, masa fresca, artesanal, proceso",
+      "query": "baker hands kneading fresh dough artisan bread making",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-warm-morning",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Panaderia abriendo temprano con luz de la manana",
+      "theme": "amanecer, panaderia, calidez, rutina matutina, comunidad",
+      "query": "bakery opening early morning warm golden light storefront",
+      "priority": "low",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "cta-coffee-bread",
+      "page": "home",
+      "section": "cta",
+      "category": "dish",
+      "label": "Taza de cafe acompanada de pan dulce recien hecho",
+      "theme": "cafe, pan dulce, manana, desayuno, combinacion perfecta",
+      "query": "cup of coffee with fresh sweet bread breakfast bakery",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "filler-bakery-palette",
+      "page": "home",
+      "section": "footer",
+      "category": "custom",
+      "label": "Textura de madera rústica con migas de pan para fondo",
+      "theme": "textura madera, migas de pan, rustico, artesanal, fondo",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    }
+  ]
+}
